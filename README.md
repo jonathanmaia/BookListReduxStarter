@@ -1,3 +1,6 @@
+### First React and Redux App (with redux) ###
+Book list and select
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
